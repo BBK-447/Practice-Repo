@@ -1,6 +1,5 @@
 # Practice-Repo
 
-Some description
 
 ## Git Clone
 ## Git status 
@@ -13,5 +12,7 @@ Some description
     Switch branch
 ## Git checkout -b 'nameOfTheBranch'
     create a new branch
-##
+
+## Git diff 'nameOfTheBranch'
+    difference bettween two branch
 
