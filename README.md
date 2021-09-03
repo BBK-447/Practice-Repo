@@ -12,8 +12,8 @@
     Switch branch
 ## Git checkout -b 'nameOfTheBranch'
     create a new branch
-## Git diff
-    
+## Git diff 'nameOfTheBranch'
+    difference bettween two branch
 
 
 
