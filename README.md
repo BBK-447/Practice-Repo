@@ -1,6 +1,9 @@
 # Practice-Repo
 
 
+## Git remote add origin'url of the repository you want to keep tracking'
+    Precise the repository you want to work on
+    
 ## Git Clone
 ## Git status 
     Show any changes I have made and the file(create or delete file) that has been modified but have not been saved and committed yet
